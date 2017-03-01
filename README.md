@@ -1,4 +1,5 @@
 # Changelog
+> Easemob-websdk bugfix version.
 
 ## v1.4.10 @ 2017-02-16
 
