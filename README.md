@@ -1,5 +1,12 @@
 # Changelog
 > Easemob-websdk bugfix version.
+```javascript
+connection.prototype.heartBeat = function () {
+  //TODO: for huanxin develop:
+  forcing = forcing || false;
+}
+```
+
 
 ## v1.4.10 @ 2017-02-16
 
