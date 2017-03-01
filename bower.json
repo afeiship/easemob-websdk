@@ -1,0 +1,26 @@
+{
+  "name": "easemob-websdk",
+  "description": "Easemob-websdk bugfix version.",
+  "main": "dist/easemob-websdk.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/easemob-websdk",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "gulp",
+    "gulpfile.js"
+  ]
+}
