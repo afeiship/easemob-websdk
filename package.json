@@ -1,24 +1,113 @@
 {
-  "name": "easemob-websdk",
-  "version": "1.4.2",
-  "description": "Easemob-websdk bugfix version.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_args": [
+    [
+      {
+        "raw": "easemob-websdk@1.4.10",
+        "scope": null,
+        "escapedName": "easemob-websdk",
+        "name": "easemob-websdk",
+        "rawSpec": "1.4.10",
+        "spec": "1.4.10",
+        "type": "version"
+      },
+      "/Users/feizheng/git-oschina/dacang-qunpai"
+    ]
+  ],
+  "_cnpm_publish_time": 1487301857294,
+  "_from": "easemob-websdk@1.4.10",
+  "_id": "easemob-websdk@1.4.10",
+  "_inCache": true,
+  "_location": "/easemob-websdk",
+  "_nodeVersion": "4.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/easemob-websdk-1.4.10.tgz_1487301857070_0.6143736785743386"
   },
+  "_npmUser": {
+    "name": "easemob",
+    "email": "npm@easemob.com"
+  },
+  "_npmVersion": "4.0.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "easemob-websdk@1.4.10",
+    "scope": null,
+    "escapedName": "easemob-websdk",
+    "name": "easemob-websdk",
+    "rawSpec": "1.4.10",
+    "spec": "1.4.10",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/easemob-websdk/download/easemob-websdk-1.4.10.tgz",
+  "_shasum": "465b6d4b96e977977043c531f5c608dbe29a2e58",
+  "_shrinkwrap": null,
+  "_spec": "easemob-websdk@1.4.10",
+  "_where": "/Users/feizheng/git-oschina/dacang-qunpai",
+  "author": {
+    "name": "easemob"
+  },
+  "bugs": {
+    "url": "https://github.com/easemob/web-im/issues"
+  },
+  "dependencies": {},
+  "description": "Easemob IM websdk",
+  "devDependencies": {
+    "browserify": "^13.1.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.2.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.7",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "webpack-stream": "^3.2.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "465b6d4b96e977977043c531f5c608dbe29a2e58",
+    "size": 197797,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/easemob-websdk/download/easemob-websdk-1.4.10.tgz"
+  },
+  "homepage": "https://github.com/easemob/web-im#readme",
+  "keywords": [
+    "realtime",
+    "im",
+    "easemob",
+    "xmpp",
+    "strophe",
+    "webrtc"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "easemob",
+      "email": "npm@easemob.com"
+    },
+    {
+      "name": "liu48566203",
+      "email": "48566203@qq.com"
+    },
+    {
+      "name": "wk3368",
+      "email": "wk668@163.com"
+    }
+  ],
+  "name": "easemob-websdk",
+  "optionalDependencies": {},
+  "publish_time": 1487301857294,
+  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/afeiship/easemob-websdk.git"
+    "url": "git+https://github.com/easemob/web-im.git"
   },
-  "keywords": [
-    "easemob",
-    "websdk",
-    "huanxin"
-  ],
-  "author": "afei",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/afeiship/easemob-websdk/issues"
+  "scripts": {
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/afeiship/easemob-websdk#readme"
+  "version": "1.4.10"
 }

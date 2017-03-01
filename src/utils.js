@@ -985,7 +985,7 @@
             var encrypt = base64.encode(str);
             return encrypt;
         },
-
+        
         decrypt: function (str) {
             var base64 = new _base64();
             var decrypt = base64.decode(str);
